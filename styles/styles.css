@@ -254,6 +254,13 @@ header .nav-wrapper {
   color: #fff !important;
 }
 
+/*height header*/
+
+header {
+  height: 150px !important;
+  background-color: #06c !important;
+}
+
 @media (width >= 900px) {
   main > .section > div {
     padding: 0 32px;
