@@ -244,6 +244,7 @@ main > .section:first-of-type {
 
 /* custom code*/
 
+/* background nav menu*/
 header .nav-wrapper {
   background-color: #06c !important;
 }
