@@ -245,7 +245,7 @@ main > .section:first-of-type {
 /* custom code*/
 
 header .nav-wrapper {
-  background-color: #06c;
+  background-color: #06c !important;
 }
 
 @media (width >= 900px) {
